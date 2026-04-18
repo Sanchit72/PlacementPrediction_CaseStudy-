@@ -6,6 +6,7 @@ It uses a Feedforward Neural Network (FNN) implemented with MLPClassifier.
 
 The model analyzes student performance based on multiple factors and provides:
 
+
 Prediction (Placed / Not Placed)
 Probability score
 🧠 Features
@@ -23,6 +24,7 @@ NumPy
 Matplotlib
 Scikit-learn
 Joblib
+
 📁 Project Structure
 placement-prediction/
 │
