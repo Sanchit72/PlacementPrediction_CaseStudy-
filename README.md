@@ -40,9 +40,15 @@ placement-prediction/
 The dataset contains the following features:
 
 Feature	Description
+
 Aptitude	Aptitude score
+
 Coding	Coding skill score
-Communication	Communication skill
+
+Communication	Communication 
+
 Academics	Academic performance
+
 Internship	Internship experience (0/1)
+
 Placed	Target (0 = Not Placed, 1 = Placed)
